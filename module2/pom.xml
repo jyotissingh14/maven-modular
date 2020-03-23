@@ -5,6 +5,7 @@
     <groupId>io.jitpack</groupId>
     <artifactId>example-root</artifactId>
     <version>1.0</version>
+    <relativePath>/var/lib/jenkins/workspace/multi_deploy/pom.xml</relativePath>
   </parent>
     
   <groupId>io.jitpack</groupId>
