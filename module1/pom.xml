@@ -10,6 +10,7 @@
   <groupId>io.jitpack</groupId>
   <artifactId>module1</artifactId>
   <version>1.0</version>
+  <relativePath>/var/lib/jenkins/workspace/multi_deploy/pom.xml</relativePath>
   <name>module1</name>
     
   <url>http://maven.apache.org</url>
